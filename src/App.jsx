@@ -13,7 +13,7 @@ const ImageUploader = () => {
 
     try {
       setIsLoading(true)
-      const response = await axios.post('http://localhost:8000/predict/', formData, {
+      const response = await axios.post('https://nwfdzs2t-8000.uks1.devtunnels.ms/predict/', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
