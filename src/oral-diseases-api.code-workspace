@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../django2/oral-diseases-api"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
